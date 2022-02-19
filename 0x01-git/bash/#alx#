@@ -1,0 +1,6 @@
+select ; do
+    $
+done
+
+#!bin/bash 
+echo "School"
